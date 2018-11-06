@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62887f26eaccfbe4792c4ae155762279, type: 3}
+  m_Name: m4
+  m_EditorClassIdentifier: 
+  id: {fileID: 11400000, guid: 2fcd368261350b04e89f3ca147cc1f01, type: 2}
+  price: 1000
+  m_h_ik: {fileID: 11400000, guid: 29de3e4c63a724d4183b753ee0328227, type: 2}
+  modelPrefab: {fileID: 1951925816121214, guid: ff8513497e7b1f0418cc2907f78e6827,
+    type: 2}
+  holsterBone: 8
+  stats:
+    bulletAmount: 1
+    base_magAmmo: 30
+    mod_magAmmo: 0
+    base_maxCarrying: 120
+    mod_maxCarrying: 0
+    base_Spread: 100
+    mod_Spread: 0
+    base_fireRate: 0.15
+    mod_fireRate: 0
+    base_damage: 15
+    mod_damage: 0
+  audio:
+    firing: {fileID: 11400000, guid: b723b48900dbd4e409b5249146aab562, type: 2}
+    reload: {fileID: 0}
+  onIdleDisableOh: 0
+  weaponType: 1
+  type: 0
+  recoilY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  recoilZ:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

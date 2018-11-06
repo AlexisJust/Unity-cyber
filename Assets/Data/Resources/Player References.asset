@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92cc2a89c0fa356488cb488c4e785fb6, type: 3}
+  m_Name: Player References
+  m_EditorClassIdentifier: 
+  curAmmo: {fileID: 11400000, guid: 2d9d54acc86d8204da194cb04ca1226f, type: 2}
+  curCarrying: {fileID: 11400000, guid: 7163b3e0920f75c48a174225f548a80d, type: 2}
+  health: {fileID: 11400000, guid: c670a517f87e1024b9b60e5194978e43, type: 2}
+  isAiming: {fileID: 11400000, guid: 6be1e930e1b29e2479a78e2d2f8283ce, type: 2}
+  isLeftPivot: {fileID: 11400000, guid: cc5583ded546fff48a552b7d5e4879b8, type: 2}
+  isCrouching: {fileID: 11400000, guid: 36ede8451b94baa488150261f2ed4072, type: 2}
+  targetSpread: {fileID: 11400000, guid: 698918330a778fc489f21a2231abd848, type: 2}
+  e_UpdateUI: {fileID: 11400000, guid: 655ec3baee450ab45bf58429fae25caa, type: 2}

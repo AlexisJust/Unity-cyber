@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b2144165f175c04b822e714b970c04d, type: 3}
+  m_Name: Pouch
+  m_EditorClassIdentifier: 
+  id: pouch
+  parentBone: 6
+  m_prefab: {fileID: 1132211222943596, guid: 52f831d681f60c04da397ed25b2ea660, type: 2}
+  f_prefab: {fileID: 0}

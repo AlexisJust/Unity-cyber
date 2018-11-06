@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b2144165f175c04b822e714b970c04d, type: 3}
+  m_Name: Eyebrows
+  m_EditorClassIdentifier: 
+  id: eyebrows
+  parentBone: 0
+  m_prefab: {fileID: 193502, guid: 28b9e527cf8e094458f5c308e4754c29, type: 2}
+  f_prefab: {fileID: 168468, guid: 9a0a94ff309ffc0468f09b80c850e634, type: 2}

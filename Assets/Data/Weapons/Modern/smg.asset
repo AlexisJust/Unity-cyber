@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62887f26eaccfbe4792c4ae155762279, type: 3}
+  m_Name: smg
+  m_EditorClassIdentifier: 
+  price: 1000
+  m_h_ik: {fileID: 11400000, guid: 43f7cfce821cbdc4b9d45fab93fe12b3, type: 2}
+  modelPrefab: {fileID: 1290294581945026, guid: 8e445238a1ec2b14eb7bb91031972875,
+    type: 2}
+  holsterBone: 7
+  stats:
+    bulletAmount: 1
+    base_magAmmo: 30
+    mod_magAmmo: 0
+    base_maxCarrying: 120
+    mod_maxCarrying: 0
+    base_Spread: 0
+    mod_Spread: 0
+    base_fireRate: 0.15
+    mod_fireRate: 0
+    base_damage: 15
+    mod_damage: 0
+  fireRate: 0.1
+  magazineAmmo: 30
+  maxAmmo: 160
+  onIdleDisableOh: 1
+  weaponType: 3
+  type: 0
+  recoilY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  recoilZ:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

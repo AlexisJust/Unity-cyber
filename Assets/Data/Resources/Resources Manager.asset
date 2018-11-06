@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0de588d07f40584c89c59bf67e2e24e, type: 3}
+  m_Name: Resources Manager
+  m_EditorClassIdentifier: 
+  runtime: {fileID: 11400000, guid: 24f51fc85415a3849894a93325c18b40, type: 2}
+  all_weapons:
+  - {fileID: 11400000, guid: 3c1d350a478a74e44970b56aab129d69, type: 2}
+  - {fileID: 11400000, guid: e4808c8a066870f49a41739f558d6204, type: 2}
+  - {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+  - {fileID: 11400000, guid: 8c50334651c32e14490d2748f860f474, type: 2}
+  - {fileID: 11400000, guid: 0c859184d6f882740a5e96613ec5d9b0, type: 2}
+  - {fileID: 11400000, guid: dd0431ca1474e7f44aa947512bf1c7c5, type: 2}
+  - {fileID: 11400000, guid: 5707c06685236a24e8d32cda0934e5c1, type: 2}
+  - {fileID: 11400000, guid: 28cc36907927f8b4083727ea1dc49841, type: 2}
+  meshContainers:
+  - {fileID: 11400000, guid: f45b817d817fa0b4eb75e8b5d887a528, type: 2}
+  - {fileID: 11400000, guid: 89dbeaf8309776a47ac997ef18edf244, type: 2}
+  - {fileID: 11400000, guid: 965072b53d2983048a6a086e13f0a3e2, type: 2}
+  - {fileID: 11400000, guid: dff65dfd6cb05b04c9c2b28eac1e3198, type: 2}
+  charObjects:
+  - {fileID: 11400000, guid: 42af85c9d75f0c24bbff2051d6a1671b, type: 2}
+  - {fileID: 11400000, guid: c6249956b1d7bd44f859e1e64e127cc0, type: 2}
+  - {fileID: 11400000, guid: 45bf6103be2d3b645b4133f20435ad81, type: 2}
+  - {fileID: 11400000, guid: 70db202835e8a7d48aa7761f9e92a8ef, type: 2}
+  - {fileID: 11400000, guid: 3a465aba3b51c15409198dbc9fccca77, type: 2}
+  - {fileID: 11400000, guid: 96520fc25b5ab6f4f9127d1d49a12cb5, type: 2}
+  - {fileID: 11400000, guid: b59ccc6bc2d983d4482fc7540cb90532, type: 2}
+  - {fileID: 11400000, guid: 0e462204987dfd74e9f379fbee71c33d, type: 2}
+  - {fileID: 11400000, guid: 9bd711ed6387e1947963d8d09dc9dbc0, type: 2}
+  - {fileID: 11400000, guid: 876144a4636ec264d9d187a0d3307944, type: 2}
+  - {fileID: 11400000, guid: b90bf1eeec3fba047b46cdebd7af4d44, type: 2}
+  - {fileID: 11400000, guid: 32ea5505acf50474eb8e2e56a4beb70f, type: 2}
+  masks:
+  - {fileID: 11400000, guid: bad221a4ad691354695b52a7df0e892c, type: 2}
+  - {fileID: 11400000, guid: 5b0ba4d1ed94a1547841929917d66368, type: 2}
+  - {fileID: 11400000, guid: 367818d40f9d7c34b9fd6c9b97cc4833, type: 2}
+  - {fileID: 11400000, guid: 827584e932b767a4a86d07458e6325b3, type: 2}
+  - {fileID: 11400000, guid: 5cbe8db8dac8a13499311d98f3a57b96, type: 2}
+  - {fileID: 11400000, guid: 749900cdf151a6c4da52adb0e0c12707, type: 2}
+  - {fileID: 11400000, guid: fca7d3c6dc11d1e4fadcc7de1d191a48, type: 2}
+  - {fileID: 11400000, guid: cf1d73716107bf44fa4862bb29ccb3f2, type: 2}
+  - {fileID: 11400000, guid: 92b31c069c1d0bb498ff92e41dccfaff, type: 2}
+  audioHolders:
+  - {fileID: 11400000, guid: b723b48900dbd4e409b5249146aab562, type: 2}

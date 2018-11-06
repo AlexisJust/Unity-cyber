@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f9cda69c2a4fd54fbceec19a4f9750a, type: 3}
+  m_Name: AllMyEvents
+  m_EditorClassIdentifier: 
+  CloseAnnouncer: {fileID: 11400000, guid: 305adc3589314914aba6a3ead5a57782, type: 2}
+  OpenAnnouncer: {fileID: 11400000, guid: 5dd664dc2e0ad56439c1518cdfc13980, type: 2}
+  OnConnectToServer: {fileID: 11400000, guid: 7e36209abfd36e84cb43be2f17e8eaf1, type: 2}
+  OnCreateRoom: {fileID: 11400000, guid: e3ad2ff13e28acb418c8695d7b266f3c, type: 2}
+  OnJoinRoom: {fileID: 11400000, guid: c84cf6ffbdd44824fa722b73545cd73e, type: 2}
+  OnTryToConnectToServer: {fileID: 11400000, guid: 400ae53697c8f924b929c1b7c1101121,
+    type: 2}
+  FadeIn: {fileID: 11400000, guid: c4f9f220d5c1a424fa8e1b7e56fa57c5, type: 2}
+  FadeOut: {fileID: 11400000, guid: 3166cfaf36d130b4fb660fa2bf1ffca9, type: 2}
+  OnCurrentItemChange: {fileID: 0}
+  OnGameStart: {fileID: 11400000, guid: 4395b554f8488fd4092bb9701269c782, type: 2}
+  OnInventory: {fileID: 11400000, guid: 2866d624c3cde484faacd896f76a6301, type: 2}
+  OnLevelChanged: {fileID: 11400000, guid: 2f7da07394e090f4b91a40818a85b7f8, type: 2}
+  OnJoinLevel: {fileID: 11400000, guid: e7aa4ce385b6aa942a6a2794a657a073, type: 2}
+  OnMainMenu: {fileID: 11400000, guid: 875981d3501c8c945bdf2225b612643e, type: 2}
+  OnMatchmakingMode: {fileID: 11400000, guid: 6e8f15e7edb99c040a81d3170b931d7c, type: 2}
+  OnMatchPlay: {fileID: 0}
+  OnProfileUpdate: {fileID: 0}
+  OnSceneLoadedSingle: {fileID: 11400000, guid: 3ef417abcef77e64ca48a200e9c56ab2,
+    type: 2}
+  OnSceneLoadedAdditive: {fileID: 0}
+  OnWeaponShoot: {fileID: 11400000, guid: 89dad93d7d413874dbadb35dcabcb556, type: 2}
+  UpdateGameUI: {fileID: 11400000, guid: 655ec3baee450ab45bf58429fae25caa, type: 2}

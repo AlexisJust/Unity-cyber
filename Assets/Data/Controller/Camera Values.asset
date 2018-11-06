@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9603fa678f6817419bf7b518f290a50, type: 3}
+  m_Name: Camera Values
+  m_EditorClassIdentifier: 
+  turnSmooth: 0.1
+  moveSpeed: 9
+  aimSpeed: 15
+  y_rotate_speed: 8
+  x_rotate_speed: 8
+  minAngle: -35
+  maxAngle: 35
+  normalZ: -3
+  normalX: 0.3
+  normalY: 1.4
+  aimZ: -1
+  aimX: 0.6
+  crouchY: 1
+  adaptSpeed: 9

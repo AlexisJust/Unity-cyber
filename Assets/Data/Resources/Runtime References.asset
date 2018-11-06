@@ -1,0 +1,302 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b7d3bc94c594564db92a111d647b74b, type: 3}
+  m_Name: Runtime References
+  m_EditorClassIdentifier: 
+  runtime_weapons:
+  - curAmmo: 30
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: 7e6173890b5e01044bf6f9d600028daf, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 16
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 0
+    curCarrying: 0
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 0}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 0
+    curCarrying: 0
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: 7e6173890b5e01044bf6f9d600028daf, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 0
+    curCarrying: 0
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 0
+    curCarrying: 0
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 0}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 0
+    curCarrying: 0
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: 7e6173890b5e01044bf6f9d600028daf, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 0
+    curCarrying: 0
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 30
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: 7e6173890b5e01044bf6f9d600028daf, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 16
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 16
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 30
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: 7e6173890b5e01044bf6f9d600028daf, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 16
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 16
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 30
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: 7e6173890b5e01044bf6f9d600028daf, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 16
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 16
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 30
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: 7e6173890b5e01044bf6f9d600028daf, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 30
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0
+  - curAmmo: 16
+    curCarrying: 120
+    lastFired: 0
+    m_instance: {fileID: 0}
+    w_hook: {fileID: 0}
+    w_actual: {fileID: 11400000, guid: de2ca743f3e8bfb49b1f76f003264336, type: 2}
+    stats:
+      bulletAmount: 1
+      base_magAmmo: 16
+      mod_magAmmo: 0
+      base_maxCarrying: 120
+      mod_maxCarrying: 0
+      base_Spread: 0
+      mod_Spread: 0
+      base_fireRate: 0.15
+      mod_fireRate: 0
+      base_damage: 15
+      mod_damage: 0

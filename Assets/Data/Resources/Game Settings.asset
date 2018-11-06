@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10c4877746ec06849a6e9f56bf8083fe, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  r_manager: {fileID: 11400000, guid: 3f958379760f232488d4dba160e6a7f8, type: 2}
+  version: 0
+  isConnected: 0
+  uiSettings:
+    curLvl: {fileID: 11400000, guid: d5b546c45031e274ab3fb5b2d404a870, type: 2}
+    onLevelChanged: {fileID: 11400000, guid: 2f7da07394e090f4b91a40818a85b7f8, type: 2}
+    lvlType: {fileID: 11400000, guid: 2dd3e34d494acab448e41c331a94aaf2, type: 2}
+    lvlDescription: {fileID: 11400000, guid: f182f7e0866c3d14d9ba0e38eda1c390, type: 2}
+    lvlImg: {fileID: 11400000, guid: 8a23db1d71fc85a4f8bce4ac3cbfd0d3, type: 2}
+  playerProfile:
+    userName: 
+    money: {fileID: 11400000, guid: 4d81520992c9be648a1e5efadccf2169, type: 2}
+    outfitID: {fileID: 11400000, guid: b6d061a870770694997fdaaf84487bde, type: 2}
+    mask_id: {fileID: 11400000, guid: 69fd182df455c704e88f3c198a088db9, type: 2}
+    mw_id: {fileID: 11400000, guid: 24e3a0b131bf7dd43a2ff71bccc56528, type: 2}
+    sw_id: {fileID: 11400000, guid: 9d881457924c0494cace397962cf740c, type: 2}
+    isMale: {fileID: 11400000, guid: 818586f148b8d4445a5aa0b48debc7b4, type: 2}
+    bought_items:
+    - none
+    - m4
+    - 1911
+    - Overalls
+    - Hockey
+  ui_profile:
+    userName: 
+    money: {fileID: 0}
+    outfitID: {fileID: 0}
+    mask_id: {fileID: 0}
+    mw_id: {fileID: 0}
+    sw_id: {fileID: 0}
+    isMale: {fileID: 0}
+    bought_items: []
+  resetValues: 1
